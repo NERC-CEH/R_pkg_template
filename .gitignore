@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 inst/doc
+inst/extdata
 vignettes/*_cache/
